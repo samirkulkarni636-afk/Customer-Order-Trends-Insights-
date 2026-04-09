@@ -1,4 +1,4 @@
-# Customer-Order-Trends-Insights
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e9ce47b3-d2dc-4bf4-b327-2079b6a38d54" /><img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e9ce47b3-d2dc-4bf4-b327-2079b6a38d54" /># Customer-Order-Trends-Insights
 
 1. Data Collection
 * Collected raw customer order data from Excel sheets.
@@ -35,7 +35,6 @@ Pie chart → Shipping distribution
 Donut chart → Order status (Yes/No)
 Bar chart → Top customers by sales
 * Applied consistent formatting and layout for better readability.
-* Link:-https://github.com/samirkulkarni636-afk/Customer-Order-Trends-Insights-/blob/main/Customer%20Order%20Trends%20%26%20Insights%20Dashboard.png
 
 6. Insights Generated
 * Identified top-performing customers.
@@ -48,3 +47,6 @@ Bar chart → Top customers by sales
 * Used charts and visuals to present insights clearly.
 * Highlighted key trends and patterns in customer orders.
 * Ensured dashboard is easy to understand for business users.
+
+
+  
