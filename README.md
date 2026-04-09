@@ -27,5 +27,12 @@
 * Shipping mode distribution
 * Segmented data by time, customer, and region.
 
-
+5. Dashboard Creation
+* Designed an interactive dashboard using:
+Line chart → Sales trend over time
+Pie chart → Shipping distribution
+Donut chart → Order status (Yes/No)
+Bar chart → Top customers by sales
+* Applied consistent formatting and layout for better readability.
+* Link:-
 
