@@ -36,14 +36,14 @@ Bar chart → Top customers by sales
 * Applied consistent formatting and layout for better readability.
 * Link:-https://github.com/samirkulkarni636-afk/Customer-Order-Trends-Insights-/blob/main/Customer%20Order%20Trends%20%26%20Insights%20Dashboard.png
 
-7. Insights Generated
+6. Insights Generated
 * Identified top-performing customers.
 * Observed monthly sales fluctuations.
 * Analyzed preferred shipping methods.
 * Highlighted high-revenue contributors.
 
 
-6. Data Visualization
+7. Data Visualization
 * Used charts and visuals to present insights clearly.
 * Highlighted key trends and patterns in customer orders.
 * Ensured dashboard is easy to understand for business users.
