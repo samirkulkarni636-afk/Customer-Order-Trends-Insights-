@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e9ce47b3-d2dc-4bf4-b327-2079b6a38d54" /><img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e9ce47b3-d2dc-4bf4-b327-2079b6a38d54" /># Customer-Order-Trends-Insights
+
 
 1. Data Collection
 * Collected raw customer order data from Excel sheets.
@@ -50,3 +50,4 @@ Bar chart → Top customers by sales
 
 
   
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e9ce47b3-d2dc-4bf4-b327-2079b6a38d54" />
