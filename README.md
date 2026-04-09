@@ -34,5 +34,5 @@ Pie chart → Shipping distribution
 Donut chart → Order status (Yes/No)
 Bar chart → Top customers by sales
 * Applied consistent formatting and layout for better readability.
-* Link:-
+* Link:-https://github.com/samirkulkarni636-afk/Customer-Order-Trends-Insights-/blob/main/Customer%20Order%20Trends%20%26%20Insights%20Dashboard.png
 
