@@ -16,3 +16,11 @@
 -> Source Data
 -> Customer Sales
 -> Shipping Data
+
+
+4. Data Analysis (Using Pivot Tables)
+* Built multiple Pivot Tables to analyze:
+* Monthly sales trends
+* Customer-wise sales performance
+* Shipping mode distribution
+* Segmented data by time, customer, and region.
